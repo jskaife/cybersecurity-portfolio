@@ -1,6 +1,6 @@
 Welcome to my journey in cybersecurity! Here, I track my progression in the field, documenting projects, achievements, and struggles.
 
-**NCL Spring 2026**
+**National Cyber League Spring 2026**
 
 This was my very first CTF experience. To be completely honest, I was quite nervous about not doing well. After the practice game, I felt a lot more confident with how the platform worked as well as the type of questions and categories that would be involved. 
 
