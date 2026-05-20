@@ -1,6 +1,7 @@
 Welcome to my journey in cybersecurity! Here, I track my progression in the field, documenting projects, achievements, and struggles.
 
 **NCL Spring 2026**
+
 This was my very first CTF experience. To be completely honest, I was quite nervous about not doing well. After the practice game, I felt a lot more confident with how the platform worked as well as the type of questions and categories that would be involved. 
 
 The Individual game proved to be very difficult for me. I had a harder time with some of the "easy" questions compared to more challenging questions. I was able to slowly work my way to 61% completion by the end of the game. I struggled a lot, and google searched even more. While there were moments where I wanted to throw in the towel, I am glad that I stuck with it and tried my best. I learned a lot while working through the challenges and was able to find some great resourcese for future use. Though I was frustrated with my end result, I have been able to redirect that into a passion to learn more and get better. Out of 7011 players, I was able to achieve 1008th place, which I was suprised, yet happy about for my first CTF.
